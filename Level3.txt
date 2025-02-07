@@ -1,0 +1,4 @@
+string a : inspected html , got /legal/iota/epsilon/eta/data.html  a9B#4pD!
+string b : robots.txt z6@Wv7L$2q
+
+cat a9B#4pD!z6@Wv7L$2q
